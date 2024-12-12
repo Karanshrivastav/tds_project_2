@@ -58,7 +58,7 @@ The Autolysis project is an analytical tool designed to extract insights from da
 ### Usage
 1. Run the main script with a dataset of your choice:
    ```bash
-   python autolysis.py <dataset_path>
+   uv autolysis.py <dataset_path>
    ```
    Replace `<dataset_path>` with the path to your dataset, e.g., `data/happiness.csv`.
 2. Visualizations and results will be saved in the `output/` directory.
