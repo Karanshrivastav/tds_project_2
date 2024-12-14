@@ -1,3 +1,5 @@
+# Metadata: {"dependencies": ["matplotlib", "pandas", "seaborn", "requests", "chardet"]}
+
 import os
 import sys
 import pandas as pd
