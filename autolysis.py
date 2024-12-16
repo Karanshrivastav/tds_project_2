@@ -1,13 +1,12 @@
-# Required libraries are given in meta data as requires and dependencies. So no need to install each time in pip command
-
 # /// script
+# requires-python = ">=3.11"
 # dependencies = [
+#   "chardet",
 #   "pandas",
 #   "seaborn",
 #   "matplotlib",
+#   "openai",
 #   "requests",
-#   "chardet",
-#   "numpy",
 # ]
 # ///
 
