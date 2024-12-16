@@ -1,4 +1,15 @@
-# Metadata: {"dependencies": ["matplotlib", "pandas", "seaborn", "requests", "chardet"]}
+# Required libraries are given in meta data as requires and dependencies. So no need to install each time in pip command
+
+# /// script
+# dependencies = [
+#   "pandas",
+#   "seaborn",
+#   "matplotlib",
+#   "requests",
+#   "chardet",
+#   "numpy",
+# ]
+# ///
 
 import os
 import sys
